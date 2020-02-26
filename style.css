@@ -1,0 +1,55 @@
+
+.carousel-item{
+    padding: 20px 20px;
+}
+.container{
+    margin-bottom: 100px;
+}
+
+.buy-now{ 
+    background-color: black;
+    color:white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+   
+    
+    }
+small{
+    color: yellow;
+}
+.card{
+    border:none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+.bu{
+    text-align: center;
+    
+}
+.bun{
+    margin-left: 78px;
+}
+.color{
+    color:black;
+}
+#ca{
+    box-shadow: 5px yellow;
+    border-radius: 500px;
+}
+#per{
+    margin-bottom: 200px;
+    margin-top: 50px;
+}
+#bag{
+    margin-top: 190px;
+}
+.mar{
+    margin-left: 40px;
+    padding: 10px;
+
+}
+#shoes{
+   padding: 0px 300px 0px 0px;
+}
